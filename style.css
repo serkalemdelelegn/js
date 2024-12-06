@@ -1,8 +1,12 @@
+body{
+ background-color: rgb(17, 12, 43);
+}
 #countLabel{
  display: block;
  text-align: center;
  font-size: 10em;
  font-family: Helvetica;
+ color: aliceblue;
 }
 #btnContainer{
  text-align: center;
